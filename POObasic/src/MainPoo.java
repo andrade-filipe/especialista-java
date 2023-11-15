@@ -4,7 +4,7 @@ import core.animal.entitys.enums.Sex;
 import java.time.OffsetDateTime;
 import java.time.ZoneOffset;
 
-public class Main {
+public class MainPoo {
     public static void main(String[] args) {
         Dog sherlock = new Dog(
                 "Sherlock",
