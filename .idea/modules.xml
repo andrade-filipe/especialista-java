@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Especialista Java.iml" filepath="$PROJECT_DIR$/Especialista Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POObasic/POObasic.iml" filepath="$PROJECT_DIR$/POObasic/POObasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/olaMergulhador/olaMergulhador.iml" filepath="$PROJECT_DIR$/olaMergulhador/olaMergulhador.iml" />
+    </modules>
+  </component>
+</project>
