@@ -47,11 +47,12 @@ public class Holerite {
 
     @Override
     public String toString() {
-        return "Holerite{" +
-            "funcionario=" + funcionario +
-            ", valorTotalNormal=" + valorTotalNormal +
-            ", valorTotalExtra=" + valorTotalExtra +
-            ", valorAdicionalFilhos=" + valorAdicionalFilhos +
+        return "Holerite{" + "\n" +
+            "funcionario=" + funcionario.toString() + "\n" +
+            "valorTotalNormal=" + valorTotalNormal + "\n" +
+            "valorTotalExtra=" + valorTotalExtra + "\n" +
+            "valorAdicionalFilhos=" + valorAdicionalFilhos + "\n" +
+            "valorTotal=" + calcularTotal() + "\n" +
             '}';
     }
 }

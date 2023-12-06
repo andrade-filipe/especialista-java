@@ -32,4 +32,12 @@ public class Funcionario {
     public boolean hasChildren(){
         return quantidadeDeFilhos >= 1;
     }
+
+    @Override
+    public String toString() {
+        return "Funcionario{" +
+            "nome='" + nome + '\'' +
+            ", quantidadeDeFilhos=" + quantidadeDeFilhos +
+            '}';
+    }
 }
