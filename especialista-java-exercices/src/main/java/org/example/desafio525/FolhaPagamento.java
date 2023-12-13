@@ -1,4 +1,4 @@
-package org.example;
+package org.example.desafio525;
 
 public class FolhaPagamento {
     public FolhaPagamento() {
